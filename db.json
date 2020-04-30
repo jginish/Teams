@@ -11,7 +11,11 @@
   "profile": {
     "name": "typicode"
   },
-  "users": {
-    "26137fac-132a-457e-926d-56ebfce3b441": { "code": "123456"}
+    "users": {
+    "name": "Ginish"
+  },
+  "26137fac-132a-457e-926d-56ebfce3b441": {
+    "code": "123456"
   }
+  
 }
