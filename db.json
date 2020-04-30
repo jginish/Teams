@@ -1,6 +1,4 @@
 {
-    "@odata.context": "https://graph.microsoft.com/beta/$metadata#teams('123456-1234-1234-1234-123456789123')/channels('19%123456789012345678901236%40thread.skype')/messages/$entity",
-    "id": "id-value",
     "body": {
         "contentType": "html",
         "content": "Hello World"
